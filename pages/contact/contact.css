@@ -1,0 +1,13 @@
+ion-content {
+ background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+h2 {
+  color: floralwhite
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: floralwhite;
+    text-align: justify;
+}
